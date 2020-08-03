@@ -18,7 +18,7 @@ Vue.use(Element);
 ```js
 import { Select, Link } from "element-ui";
 Vue.component(Select.name, Select);
-Vue.component(Button.name, Button);
+Vue.component(Link.name, Link);
 ```
 
 ## Result
